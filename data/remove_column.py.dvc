@@ -1,0 +1,5 @@
+outs:
+- md5: 8873448316350b78149af618d5349afd
+  size: 135
+  hash: md5
+  path: remove_column.py
